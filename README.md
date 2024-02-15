@@ -35,9 +35,9 @@ Este curso é adequado para:
 - Desenvolvedores intermediários em busca de aprimoramento.
 - Desenvolvedores avançados interessados em Python, POO, Django e Design Patterns.
 
-## Você Está Cursando Este Curso?
+## estou cursando alns topicos deste curso 
 
-Se você, Thiago M Arica, está atualmente cursando este curso, seja bem-vindo! Fique à vontade para entrar em contato comigo caso tenha alguma dúvida ou sugestão.
+ Thiago M Arica, estou atualmente estudando muito esses temas relacionados 
 
 ## Por que Este Curso?
 
